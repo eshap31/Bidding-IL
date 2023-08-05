@@ -48,7 +48,7 @@ To run this project, you need the following:
 
 ## Contributions
 
-This project was developed by Eitam Shapsa. Feel free to contribute by submitting bug reports, feature requests, or pull requests on [GitHub]([https://github.com/yourusername/bidding-platform-gui](https://github.com/eshap31/Bidding-IL)).
+This project was developed by Eitam Shapsa. Feel free to contribute by submitting bug reports, feature requests, or pull requests on https://github.com/eshap31/Bidding-IL.
 
 ## License
 
